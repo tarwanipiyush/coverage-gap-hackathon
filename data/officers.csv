@@ -1,0 +1,16 @@
+officer_id,officer_name,branch_id,home_lat,home_lon
+O1,Officer 1,B1,18.896,72.7777
+O2,Officer 2,B1,18.896,72.7777
+O3,Officer 3,B1,18.896,72.7777
+O4,Officer 4,B2,19.226,72.9977
+O5,Officer 5,B2,19.226,72.9977
+O6,Officer 6,B2,19.226,72.9977
+O7,Officer 7,B3,18.956,73.0377
+O8,Officer 8,B3,18.956,73.0377
+O9,Officer 9,B3,18.956,73.0377
+O10,Officer 10,B4,19.216,72.7377
+O11,Officer 11,B4,19.216,72.7377
+O12,Officer 12,B4,19.216,72.7377
+O13,Officer 13,B5,19.076,72.8777
+O14,Officer 14,B5,19.076,72.8777
+O15,Officer 15,B5,19.076,72.8777
