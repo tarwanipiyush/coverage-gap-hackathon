@@ -134,7 +134,7 @@ def main():
     visit_list = optimized["assignments"][officer_id]
     st.write(f"**{len(visit_list)} customers assigned to {officer_id} today:**")
     st.dataframe(customers[customers["customer_id"].isin(visit_list)][["customer_id", "priority"]],
-                 use_container_width=True, hide_index=True)
+                 use_container_width='stretch', hide_index=True)
 
     with st.expander("Assumptions made for this demo"):
         st.markdown(
